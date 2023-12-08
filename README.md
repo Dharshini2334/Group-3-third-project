@@ -1,7 +1,7 @@
 # HANGMAN-WORD-GAME
- 👍🏻 CSL304: OOPM (Java) Lab - Project [SEMESTER III]
+ AP CSP Period 2 - Millard
  
- - [X] **CSL304: [OOPM JAVA LAB](https://github.com/Amey-Thakur/OOPM-JAVA-LAB)**
+
 
 
 ## Project
